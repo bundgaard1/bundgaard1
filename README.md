@@ -1,4 +1,5 @@
-Hej!!!
-Jeg hedder Mathias Bille Bundgaard Jørgensen
+# Hi!!
+I'm Mathias Jørgensen
 
-Jeg studere til computer ingeniør på AU
+- First semeter of Computer Engineering at Aarhus University
+- 20 years old
